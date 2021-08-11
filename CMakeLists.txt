@@ -12,6 +12,6 @@ project(DESIGN_PATTERN)
 add_subdirectory(01_SimpleFactory)
 add_subdirectory(02_FactoryMethod)
 add_subdirectory(03_AbstractFactory)
-
+add_subdirectory(04_Singleton)
 
 

@@ -1,5 +1,5 @@
-#ifndef SIMPLE_FACTORY_H
-#define SIMPLE_FACTORY_H
+#ifndef _FACTORY_METHOD_H
+#define _FACTORY_METHOD_H
 #include <string>
 
 class Animal 

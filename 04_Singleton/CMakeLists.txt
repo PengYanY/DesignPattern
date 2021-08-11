@@ -1,11 +1,11 @@
-set(TARGET 03_AbstractFactory)
+set(TARGET 04_Singleton)
 
 set(SOUCES
-    AbstractFactory.cpp
+    Singleton.cpp
 )
 
 set(INCLUDES
-    AbstractFactory.h
+    Singleton.h
 )
 
 add_executable(${TARGET} main.cpp ${SOUCES} ${INCLUDES})

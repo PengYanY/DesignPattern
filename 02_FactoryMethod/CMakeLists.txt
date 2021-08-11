@@ -1,4 +1,4 @@
-set(TARGET FactoryMethod)
+set(TARGET 02_FactoryMethod)
 
 set(SOUCES
     FactoryMethod.cpp

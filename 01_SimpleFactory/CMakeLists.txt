@@ -1,4 +1,4 @@
-set(TARGET SimpleFactory)
+set(TARGET 01_SimpleFactory)
 
 set(SOUCES
     SimpleFactory.cpp
