@@ -14,6 +14,8 @@ add_subdirectory(02_FactoryMethod)
 add_subdirectory(03_AbstractFactory)
 add_subdirectory(04_Singleton)
 add_subdirectory(05_Builder)
+add_subdirectory(06_Prototype)
+
 
 
 
